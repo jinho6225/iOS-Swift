@@ -1,0 +1,11 @@
+- [x] Section1: Getting Started with iOS Development and Swift 5
+- [ ] Section2: Xcode Storyboards and Interface Builder
+- [ ] Section3: Xcode Storyboard and Interface Builder Challenge
+- [ ] Section4: Swift Programming Basics - Collections, Constants & Variables
+- [ ] Section5: 
+- [ ] Section6: 
+- [ ] Section7: 
+- [ ] Section8: 
+- [ ] Section9: 
+- [ ] Section10: 
+- [ ] Section11: 
