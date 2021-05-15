@@ -7,7 +7,7 @@
 [100 Days of Swift - link](https://www.hackingwithswift.com/100)
 
 - [x] Day 1 – variables, simple data types, and string interpolation
-- [ ] Day 2 – arrays, dictionaries, sets, and enums
+- [x] Day 2 – arrays, dictionaries, sets, and enums
 
 
 
