@@ -19,7 +19,8 @@
 ### Udemy - iOS & Swift - The Complete iOS App Development Bootcamp
 
 - [x] Section1: Getting Started with iOS Development and Swift 5
-- [x] Section2: Xcode Storyboards and Interface Builder
+- [x] Section2: Xcode Storyboards and Interface Builder - I Am Rich
+- [x] Section3: Xcode Storyboards and Interface Builder Challenge - I Am Poor
 
 
 
