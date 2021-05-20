@@ -21,7 +21,8 @@
 - [x] Section1: Getting Started with iOS Development and Swift 5
 - [x] Section2: Xcode Storyboards and Interface Builder - I Am Rich
 - [x] Section3: Xcode Storyboards and Interface Builder Challenge - I Am Poor
-- [x] Section4: Swift Programming basics Challenge
+- [x] Section4: Swift Programming basics - Collections, Constants & Variables
+- [x] Section5: Swift Programming basics Challenge
 
 
 
