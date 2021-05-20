@@ -25,7 +25,3 @@
 - [x] Section4: Swift Programming basics - Collections, Constants & Variables
 - [x] Section5: Swift Programming basics Challenge
 
-
-
-testing1
-testing2
