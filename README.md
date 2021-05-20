@@ -11,7 +11,8 @@
 - [x] Day 3 – operators and conditions 
 - [x] Day 4 – loops, loops, and more loops
 - [x] Day 5 – functions, parameters, and errors
-
+- [x] Day 6 – closures part one
+- [x] Day 7 – closures part two
 
 <br>
 <hr>
