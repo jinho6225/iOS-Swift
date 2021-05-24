@@ -24,4 +24,5 @@
 - [x] Section3: Xcode Storyboards and Interface Builder Challenge - I Am Poor
 - [x] Section4: Swift Programming basics - Collections, Constants & Variables
 - [x] Section5: Swift Programming basics Challenge
+- [x] Section6: Auto Layout and REsponsive UIs
 
