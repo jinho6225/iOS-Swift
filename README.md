@@ -25,4 +25,5 @@
 - [x] Section4: Swift Programming basics - Collections, Constants & Variables
 - [x] Section5: Swift Programming basics Challenge
 - [x] Section6: Auto Layout and REsponsive UIs
+- [x] Section7: Using and Understanding Apple Documentation
 
