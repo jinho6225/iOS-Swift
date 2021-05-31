@@ -27,4 +27,6 @@
 - [x] Section6: Auto Layout and REsponsive UIs
 - [x] Section7: Using and Understanding Apple Documentation
 - [x] Section8: Intermediate Swift Programming - Control Flow and Optionals
+- [x] Section9: iOS App Design Patterns and Code Structuring
+- [ ] Section10: iOS App Design Pattern Challenge
 
