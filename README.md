@@ -29,4 +29,6 @@
 - [x] Section8: Intermediate Swift Programming - Control Flow and Optionals
 - [x] Section9: iOS App Design Patterns and Code Structuring
 - [x] Section10: iOS App Design Pattern Challenge
+- [x] Section11: Advanced Swift Programming - Classes, Inheritance & Advanced Optionals
+- [x] Section12: Advanced Swift Programming Challenge
 
